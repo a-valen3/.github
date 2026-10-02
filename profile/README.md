@@ -48,8 +48,8 @@ Minha visão é construir fundamentos reutilizáveis: governança, privacidade, 
 | Frente | Direção |
 | --- | --- |
 | **TrainyX** | Sistema de performance humana com IA orientada pela minha metodologia proprietária, voltado à consistência do treinamento e a processos estruturados e auditáveis. |
-| **ZK-TamoJunto** | Frente de mobilidade humana, orientada por segurança, privacidade e confiança nas interações. |
-| **Sniper Tokens AI** | Frente de inteligência aplicada ao mercado cripto. |
+| **ZK-TJ** | Frente de mobilidade humana, orientada por segurança, privacidade e confiança nas interações. |
+| **ST-AI** | Frente de inteligência aplicada ao mercado cripto. |
 
 As frentes representam áreas de construção do ecossistema; sua presença aqui não implica disponibilidade pública de todos os produtos.
 
