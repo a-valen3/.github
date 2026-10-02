@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/a-valen3/.github/raw/refs/heads/main/synergyxzk-trainyx.png" width="100%" alt="SynergyXZK e TrainyX conectados pelo X central — inteligência, privacidade e convergência">
+  <img src="https://github.com/a-valen3/.github/raw/refs/heads/main/synergyxzk-trainyx-hq.png" width="100%" alt="SynergyXZK e TrainyX conectados pelo X central — inteligência, privacidade e convergência">
 </p>
 
 <p align="center">
-  <img src="https://github.com/a-valen3/.github/raw/refs/heads/main/trust-motion-centered.gif" width="100%" alt="Engenharia da confiança humana — inteligência, soberania e impacto real">
+  <img src="https://github.com/a-valen3/.github/raw/refs/heads/main/trust-motion-hq.gif" width="100%" alt="Engenharia da confiança humana — inteligência, soberania e impacto real">
 </p>
 
 <p align="center">
