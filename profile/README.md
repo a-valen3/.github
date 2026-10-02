@@ -1,6 +1,6 @@
 <!-- Branding vetorial autoral inspirado na referência fornecida. -->
 <p align="center">
-  <img src="https://github.com/a-valen3/.github/raw/3228b6a9b98388f1f1b3cbf000b22d19369774cb/andreza-valen.svg" width="100%" alt="Andreza Valen — Founder & CEO da SynergyXZK; Founder & Chief Architect do TrainyX">
+  <img src="https://github.com/a-valen3/.github/raw/2a0dae339df97f3f761e8b7b3096ee7725f5bda1/andreza-valen.svg" width="100%" alt="Andreza Valen — Founder & CEO da SynergyXZK; Founder & Chief Architect do TrainyX">
 </p>
 
 <p align="center">
@@ -12,6 +12,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/SynergyXZK"><strong>SynergyXZK ↗</strong></a> &nbsp;·&nbsp;
   <a href="https://trainyx.xyz/"><strong>TrainyX ↗</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/TrainyX"><strong>GitHub TrainyX ↗</strong></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/a-valen/"><strong>LinkedIn ↗</strong></a>
@@ -106,5 +107,14 @@ Construir para o futuro exige fundações sólidas e disposição para aprender 
 </details>
 
 ---
+
+
+### Conecte-se comigo e com o ecossistema
+
+| Perfil | Canais oficiais |
+| --- | --- |
+| **Andreza Valen** | [LinkedIn](https://www.linkedin.com/in/a-valen/) · [Medium](https://synergyxzk.medium.com/) · [Instagram](https://www.instagram.com/andreza.valen/) · [X](https://x.com/a_valen12) |
+| **SynergyXZK** | [GitHub](https://github.com/SynergyXZK) · [Instagram](https://www.instagram.com/synergyxzk_oficial/) · [X](https://x.com/SynergyXZK) |
+| **TrainyX** | [Site](https://trainyx.xyz/) · [GitHub](https://github.com/TrainyX) · [LinkedIn](https://www.linkedin.com/company/trainyx-lab/) · [Instagram](https://www.instagram.com/trainyx_oficial/) · [X](https://x.com/TrainyX_Oficial) · [Medium](https://trainyxlab-oficial.medium.com/) |
 
 <p align="center"><strong>Andreza Valen · SynergyXZK · TrainyX</strong><br>Performance humana · Mobilidade · Confiança digital</p>
