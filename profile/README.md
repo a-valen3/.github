@@ -1,6 +1,6 @@
 <!-- Branding vetorial autoral inspirado na referência fornecida. -->
 <p align="center">
-  <img src="https://github.com/a-valen3/.github/raw/refs/heads/main/andreza-valen.svg" width="100%" alt="Andreza Valen — Founder & CEO da SynergyXZK; Founder & Chief Architect do TrainyX">
+  <img src="https://github.com/a-valen3/.github/raw/refs/heads/main/andreza-valen.svg?v=roles-centered" width="100%" alt="Andreza Valen — Founder & CEO da SynergyXZK; Founder & Chief Architect do TrainyX">
 </p>
 
 <p align="center">
