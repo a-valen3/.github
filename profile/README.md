@@ -1,14 +1,14 @@
 <!-- Branding vetorial autoral inspirado na referência fornecida. -->
 <p align="center">
-  <img src="assets/andreza-valen.svg" width="100%" alt="Andreza Valen — Founder & CEO da SynergyXZK; Founder & Chief Architect do TrainyX">
+  <img src="https://github.com/a-valen3/.github/raw/refs/heads/main/andreza-valen.svg" width="100%" alt="Andreza Valen — Founder & CEO da SynergyXZK; Founder & Chief Architect do TrainyX">
 </p>
 
 <p align="center">
-  <img src="assets/synergyxzk-trainyx.png" width="100%" alt="SynergyXZK e TrainyX conectados pelo X central — inteligência, privacidade e convergência">
+  <img src="https://github.com/a-valen3/.github/raw/refs/heads/main/synergyxzk-trainyx.png" width="100%" alt="SynergyXZK e TrainyX conectados pelo X central — inteligência, privacidade e convergência">
 </p>
 
 <p align="center">
-  <img src="assets/trust-motion.gif" width="100%" alt="Engenharia da confiança humana — inteligência, soberania e impacto real">
+  <img src="https://github.com/a-valen3/.github/raw/refs/heads/main/trust-motion.gif" width="100%" alt="Engenharia da confiança humana — inteligência, soberania e impacto real">
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 <a name="quem-sou"></a>
 
-<p><img src="assets/quem-sou.svg" width="100%" alt="Quem sou"></p>
+<p><img src="https://github.com/a-valen3/.github/raw/refs/heads/main/quem-sou.svg" width="100%" alt="Quem sou"></p>
 
 Sou Andreza Valen, fundadora e CEO da **SynergyXZK** e fundadora e Chief Architect do **TrainyX**. Conecto estratégia, arquitetura de sistemas e experiência humana para construir produtos com propósito, segurança e valor prático.
 
@@ -37,7 +37,7 @@ Penso em ecossistemas de longo prazo. Antes de definir funcionalidades, examino 
 
 <a name="o-que-estou-construindo"></a>
 
-<p><img src="assets/o-que-estou-construindo.svg" width="100%" alt="O que estou construindo"></p>
+<p><img src="https://github.com/a-valen3/.github/raw/refs/heads/main/o-que-estou-construindo.svg" width="100%" alt="O que estou construindo"></p>
 
 ### SynergyXZK · Tecnologia com propósito
 
@@ -63,7 +63,7 @@ Minha atuação conecta visão de produto, metodologia, arquitetura e governanç
 
 <a name="como-penso-sistemas"></a>
 
-<p><img src="assets/como-penso-sistemas.svg" width="100%" alt="Como penso sistemas"></p>
+<p><img src="https://github.com/a-valen3/.github/raw/refs/heads/main/como-penso-sistemas.svg" width="100%" alt="Como penso sistemas"></p>
 
 <details open>
 <summary><strong>Explore meus princípios de arquitetura</strong></summary>
@@ -85,7 +85,7 @@ Esses princípios orientam minhas decisões de projeto; sua implementação prec
 
 <a name="meu-foco"></a>
 
-<p><img src="assets/meu-foco.svg" width="100%" alt="Meu foco"></p>
+<p><img src="https://github.com/a-valen3/.github/raw/refs/heads/main/meu-foco.svg" width="100%" alt="Meu foco"></p>
 
 - **Estratégia e arquitetura:** conectar visão de longo prazo, prioridades e execução.
 - **IA aplicada:** estruturar conhecimento especializado com critérios de qualidade, avaliação e supervisão.
