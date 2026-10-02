@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/a-valen3/.github/raw/979e5ed50209179833fb81722d0ad71094da9e46/synergyxzk-trainyx-hq.png" width="100%" alt="SynergyXZK e TrainyX conectados pelo X central — inteligência, privacidade e convergência">
+  <img src="https://github.com/a-valen3/.github/raw/refs/heads/main/andreza-brand-master.png" width="100%" alt="SynergyXZK e TrainyX conectados pelo X central — inteligência, privacidade e convergência">
 </p>
 
 <p align="center">
