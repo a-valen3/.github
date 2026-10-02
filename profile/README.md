@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/a-valen3/.github/raw/refs/heads/main/trust-motion.gif" width="100%" alt="Engenharia da confiança humana — inteligência, soberania e impacto real">
+  <img src="https://github.com/a-valen3/.github/raw/refs/heads/main/trust-motion-centered.gif" width="100%" alt="Engenharia da confiança humana — inteligência, soberania e impacto real">
 </p>
 
 <p align="center">
