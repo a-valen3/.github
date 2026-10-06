@@ -1,7 +1,7 @@
 # TRAINYX — HUMAN PERFORMANCE OPERATING SYSTEM
 ## LICENÇA PROPRIETÁRIA DE SOFTWARE E DECLARAÇÃO DE TITULARIDADE INTELECTUAL
 
-**Titular exclusiva do núcleo original:** Andreza Valen  
+**Titular exclusiva do núcleo original:** Andrez Valen  
 **Produto:** TrainyX — Performance OS  
 **Ecossistema institucional:** SynergyXZK  
 **Identificações operacionais:** TrainyX Lab / SynergyXZK Infraestrutura  
@@ -30,7 +30,7 @@ Este instrumento não constitui licença de código aberto nem cessão de propri
 
 Para os fins deste instrumento:
 
-**Titular:** Andreza Valen.
+**Titular:** Andrez Valen.
 
 **Software:** os componentes proprietários do TrainyX abrangidos por este instrumento, incluindo código-fonte, código objeto, serviços, aplicações, bibliotecas próprias, configurações e componentes computacionais.
 
@@ -46,7 +46,7 @@ Para os fins deste instrumento:
 
 ## 3. Titularidade exclusiva de Andreza Valen
 
-**Andreza Valen é a titular exclusiva dos direitos patrimoniais sobre o núcleo original de sua autoria do TrainyX e sobre os demais Ativos Proprietários cujos direitos detenha legitimamente.**
+**Andrez Valen é a titular exclusiva dos direitos patrimoniais sobre o núcleo original de sua autoria do TrainyX e sobre os demais Ativos Proprietários cujos direitos detenha legitimamente.**
 
 Permanecem preservados os direitos morais reconhecidos pela legislação aplicável, observadas as regras específicas relativas a programas de computador.
 
@@ -287,21 +287,21 @@ Alterações não revogam retroativamente direitos concedidos nem modificam cont
 
 Se alguma disposição for inválida, as demais permanecerão eficazes na extensão permitida.
 
-Somente Andreza Valen ou representante com poderes expressos poderá conceder direitos adicionais sobre os Ativos Proprietários.
+Somente Andrez Valen ou representante com poderes expressos poderá conceder direitos adicionais sobre os Ativos Proprietários.
 
 ---
 
 ## DECLARAÇÃO FINAL DE TITULARIDADE
 
-**O núcleo original do TrainyX abrangido por este instrumento pertence exclusivamente a Andreza Valen.**
+**O núcleo original do TrainyX abrangido por este instrumento pertence exclusivamente a Andrez Valen.**
 
 SynergyXZK, SynergyXZK Infraestrutura e TrainyX Lab são identificações institucionais ou operacionais e não constituem, por sua utilização neste documento, destinatárias de cessão de direitos.
 
 Nenhum usuário, parceiro, colaborador ou prestador adquire titularidade sobre os Ativos Proprietários por acesso, pagamento, integração ou participação.
 
-**Todos os direitos não expressamente concedidos permanecem reservados a Andreza Valen.**
+**Todos os direitos não expressamente concedidos permanecem reservados a Andrez Valen.**
 
 **Licenciamento, autorizações e comunicações jurídicas:**  
 a.valen@synergyxzk.xyz
 
-**© 2025–2026 Andreza Valen. Todos os direitos reservados.**
+**© 2025–2026 Andrez Valen. Todos os direitos reservados.**
