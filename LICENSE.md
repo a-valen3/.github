@@ -12,7 +12,7 @@
 **Referência histórica de commit informada:** `2fc07d8`, com identificação de autor `TreinozAI`  
 **Contato jurídico e de licenciamento:** a.valen@synergyxzk.xyz
 
-**© 2025–2026 Andreza Valen. Todos os direitos reservados.**
+**© 2025–2026 Andrez Valen. Todos os direitos reservados.**
 
 ---
 
@@ -60,7 +60,7 @@ Eventual cessão dependerá de instrumento escrito específico, firmado pela Tit
 
 ## 4. Escopo dos Ativos Proprietários
 
-Este instrumento abrange, quando originais e de titularidade de Andreza Valen:
+Este instrumento abrange, quando originais e de titularidade de Andrez Valen:
 
 - Código-fonte, código objeto, módulos, microserviços e bibliotecas próprias.
 - Orquestrações, configurações e implementações computacionais.
