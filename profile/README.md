@@ -1,6 +1,6 @@
 <!-- Branding vetorial autoral inspirado na referência fornecida. -->
 <p align="center">
-  <img src="https://github.com/a-valen3/.github/raw/2a0dae339df97f3f761e8b7b3096ee7725f5bda1/andreza-valen.svg" width="100%" alt="Andreza Valen — Founder & CEO da SynergyXZK; Founder & Chief Architect do TrainyX">
+  <img src="https://github.com/a-valen3/.github/raw/2a0dae339df97f3f761e8b7b3096ee7725f5bda1/andreza-valen.svg" width="100%" alt="Andrez Valen — Founder & CEO da SynergyXZK; Founder & Chief Architect do TrainyX">
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 <p><img src="https://github.com/a-valen3/.github/raw/refs/heads/main/quem-sou.svg" width="100%" alt="Quem sou"></p>
 
-Sou Andreza Valen, fundadora e CEO da **SynergyXZK** e fundadora e Chief Architect do **TrainyX**. Conecto estratégia, arquitetura de sistemas e experiência humana para construir produtos com propósito, segurança e valor prático.
+Sou Andrez Valen, fundadora e CEO da **SynergyXZK** e fundadora e Chief Architect do **TrainyX**. Conecto estratégia, arquitetura de sistemas e experiência humana para construir produtos com propósito, segurança e valor prático.
 
 Minha experiência em fitness e acompanhamento de alta performance orienta como penso tecnologia: a realidade das pessoas é o ponto de partida. Transformar conhecimento especializado em sistemas exige preservar o contexto, a qualidade das decisões e a responsabilidade por seus efeitos.
 
@@ -113,7 +113,7 @@ Construir para o futuro exige fundações sólidas e disposição para aprender 
 
 | Perfil | Canais oficiais |
 | --- | --- |
-| **Andreza Valen** | [LinkedIn](https://www.linkedin.com/in/a-valen/) · [Medium](https://synergyxzk.medium.com/) · [Instagram](https://www.instagram.com/andreza.valen/) · [X](https://x.com/a_valen12) |
+| **Andrez Valen** | [LinkedIn](https://www.linkedin.com/in/a-valen/) · [Medium](https://synergyxzk.medium.com/) · [Instagram](https://www.instagram.com/andrez.valen/) · [X](https://x.com/a_valen12) |
 | **SynergyXZK** | [GitHub](https://github.com/SynergyXZK) · [Instagram](https://www.instagram.com/synergyxzk_oficial/) · [X](https://x.com/SynergyXZK) |
 | **TrainyX** | [Site](https://trainyx.xyz/) · [GitHub](https://github.com/TrainyX) · [LinkedIn](https://www.linkedin.com/company/trainyx-lab/) · [Instagram](https://www.instagram.com/trainyx_oficial/) · [X](https://x.com/TrainyX_Oficial) · [Medium](https://trainyxlab-oficial.medium.com/) |
 
