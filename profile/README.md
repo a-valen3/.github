@@ -117,4 +117,4 @@ Construir para o futuro exige fundações sólidas e disposição para aprender 
 | **SynergyXZK** | [GitHub](https://github.com/SynergyXZK) · [Instagram](https://www.instagram.com/synergyxzk_oficial/) · [X](https://x.com/SynergyXZK) |
 | **TrainyX** | [Site](https://trainyx.xyz/) · [GitHub](https://github.com/TrainyX) · [LinkedIn](https://www.linkedin.com/company/trainyx-lab/) · [Instagram](https://www.instagram.com/trainyx_oficial/) · [X](https://x.com/TrainyX_Oficial) · [Medium](https://trainyxlab-oficial.medium.com/) |
 
-<p align="center"><strong>Andreza Valen · SynergyXZK · TrainyX</strong><br>Performance humana · Mobilidade · Confiança digital</p>
+<p align="center"><strong>Andrez Valen · SynergyXZK · TrainyX</strong><br>Performance humana · Mobilidade · Confiança digital</p>
