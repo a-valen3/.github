@@ -44,7 +44,7 @@ Para os fins deste instrumento:
 
 **Informações Confidenciais:** informações não públicas disponibilizadas sob dever válido de sigilo ou em circunstâncias que evidenciem legitimamente sua natureza confidencial.
 
-## 3. Titularidade exclusiva de Andreza Valen
+## 3. Titularidade exclusiva de Andrez Valen
 
 **Andrez Valen é a titular exclusiva dos direitos patrimoniais sobre o núcleo original de sua autoria do TrainyX e sobre os demais Ativos Proprietários cujos direitos detenha legitimamente.**
 
